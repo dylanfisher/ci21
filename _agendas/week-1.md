@@ -16,7 +16,7 @@ summary:          Introductions
 
 ### Homework
 - Turn in your introduction slideshow on canvas
-- Watch the two lectures: Cyberspace Origins and Internet Today on the [vimeo](https://vimeo.com/showcase/8025633) and prepare to talk about them.
+- Watch the two lectures: [Cyberspace Origins](https://vimeo.com/501962625) and [Internet Today](https://vimeo.com/502002510) on the [vimeo](https://vimeo.com/showcase/8025633) and prepare to talk about them. Please view the Slack channel for the password.
 - Reading: [A Vernacular Web](http://art.teleportacia.org/observation/vernacular/)
 - Reading leaders: Yuka and Lou
 - Everyone else writes a discussion comment or question [here](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BDjQoiLRy7BRRDUZrmuPfn0uAQ-WRC1vWjkMj6DPWDHQKuTU). Reading leaders, please connect the readings to the two lectures and prepare comments and questions around this.
