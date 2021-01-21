@@ -5,6 +5,22 @@ date_range:       1/20 – 1/24
 summary:          Introductions
 ---
 
+### Thursday, Studio
+
+- [Zoom link](https://newschool.zoom.us/my/nikafisher) 
+- Hear from Yuka and Lou and discuss Cyberspace Origins, Internet Today, and A Vernacular Web
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/S21-CI2-Week-1-Class-2-Cross-platform-Storytelling--BDl2lhNmEiIyXWJz54MJT9QSAQ-FdElwHEycIGcagriXUMiL)
+- Kick off project, [Cross-Platform Storytelling](../projects/1-cross-platform-storytelling)
+- What is a story? Narrative arc vs non-linear story.
+- Partner activity
+
+### Homework
+- Read [Can the Internet be Archived?](https://www.newyorker.com/magazine/2015/01/26/cobweb) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BDjQoiLRy7BRRDUZrmuPfn0uAQ-WRC1vWjkMj6DPWDHQKuTU)
+- Sign up for [Figma](https://www.figma.com/) and download the [desktop app](https://www.figma.com/downloads/) as well as [the font installer](https://www.figma.com/downloads/), DO NOT skip the font installer step!
+- [Cross-Platform Storytelling](../projects/1-cross-platform-storytelling) – Brainstorm the subject matter for your cross platform storytelling project. Using Figma, sketch out three different ideas for your project. You can either sketch out 3 stories and the platforms you’d use OR 1 story told in 3 different ways and the platforms you’d use for each. Be ready to share your work on Tuesday.
+
+---
+
 ### Tuesday, Studio
 
 - Meet in Lynn Kiang&rsquo;s room at 9 am for [all student introductory session](https://newschool.zoom.us/j/98510974562)
