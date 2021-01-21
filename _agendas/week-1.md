@@ -2,7 +2,7 @@
 title:            Week 1
 start_date:       2021-01-19 00:00:00 -0500
 date_range:       1/19 – 1/22
-summary:          Introductions
+summary:          Introductions, Cyberspace Origins, Cross-Platform Storytelling, Glitch
 ---
 
 ### Friday, Lab
