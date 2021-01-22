@@ -1,7 +1,7 @@
 ---
-first_name: Citra Luna
+first_name: Luna
 last_name:  Martha
 student_id: martc626
-email:      martc626@newschool.edu
+email:      citra.luna@newschool.edu
 github_username: martc626
 ---
