@@ -8,7 +8,7 @@ summary:          Ideation, Figma workflow, Project Development
 ### Tuesday, Studio
 
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
-- [Today&rsquo;s Notes](https://docs.google.com/document/d/17OuPptLAPasnHGMydjDuOaV6ugb1K3cYEBHPPsI0GK8/edit?usp=sharing)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/S21-CI2-Week-2-Class-1-Cross-platform-Storytelling--BD8BT0eQ51D9yJU5sIuHZ2jKAQ-slhL4qyugSGbCWZESQ7kK)
 - Hear from Julia about [Can the Internet be Archived?](https://www.newyorker.com/magazine/2015/01/26/cobweb) and the rest of us [discuss](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BDjQoiLRy7BRRDUZrmuPfn0uAQ-WRC1vWjkMj6DPWDHQKuTU).
 - Figma workspace and tips
 - Small group meetings to discuss project ideas
