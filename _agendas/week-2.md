@@ -15,6 +15,6 @@ summary:          Ideation, Figma workflow, Project Development
 
 
 ### Homework
-- Based on today&rsquo;s feedback, select one of your ideas to move forward with and sketch out the complete website. 
+- Based on today&rsquo;s feedback, select one of your ideas to move forward with and sketch out the complete website and begin creating all assets.
 
 ---
