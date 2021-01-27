@@ -5,6 +5,18 @@ date_range:       1/26 – 1/29
 summary:          Ideation, Figma workflow, Project Development
 ---
 
+### Thursday, Studio
+
+- [Zoom room](https://newschool.zoom.us/my/nikafisher)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/S21-CI2-Week-2-Class-2-Cross-platform-Storytelling--BEDQ_7ElqQyFMgdzugFzF~VDAQ-RGb3VTZzo7z6X9YQtZSUR)
+- Small group meetings
+
+### Homework
+
+- Complete [P1: Cross-Platform Storytelling]../1-cross-platform-storytelling) and be prepared to present at the start of class.
+
+---
+
 ### Tuesday, Studio
 
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
@@ -15,6 +27,7 @@ summary:          Ideation, Figma workflow, Project Development
 
 
 ### Homework
+
 - Based on today&rsquo;s feedback, select one of your ideas to move forward with and sketch out the complete website and begin creating all assets.
 
 ---
