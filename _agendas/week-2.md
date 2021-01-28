@@ -13,7 +13,7 @@ summary:          Ideation, Figma workflow, Project Development
 
 ### Homework
 
-- Complete [P1: Cross-Platform Storytelling]../1-cross-platform-storytelling) and be prepared to present at the start of class.
+- Complete [P1: Cross-Platform Storytelling](../1-cross-platform-storytelling) and be prepared to present at the start of class.
 
 ---
 
