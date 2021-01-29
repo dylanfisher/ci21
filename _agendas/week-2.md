@@ -17,7 +17,7 @@ summary:          Ideation, Figma workflow, Project Development
 - [Local Web Development Environment](https://vimeo.com/showcase/8025633/video/503157675)
 
 ### Homework
-- Add a link to your Sharing Commonalities group assignment.
+- Add a link to your Sharing Commonalities group assignment to your GitHub homepage.
 - Add a webring to your GitHub homepage [CI: Lab, Week 2 – Webring](https://paper.dropbox.com/doc/CI-Lab-Week-2-Webring--BEH3FN0tsoTZHD164u37L3~RAg-7bbPW8uHnMfHIcwzM9k2k)
 
 ### Next week's lab demo video
