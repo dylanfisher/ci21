@@ -7,7 +7,7 @@ summary:          Cross-Platform storytelling critique,
 
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
-- [Today&rsquo;s Notes Cross-Platform Storytelling critique info](https://paper.dropbox.com/doc/Critique-1-Cross-Platform-Storytelling--BEZ6bcNWAKtRZRAkizrOhjyPAQ-aOQK1sEOJ9DZUeGpgAIQqK)
+- [Today&rsquo;s Notes Cross-Platform Storytelling critique info](https://paper.dropbox.com/doc/Critique-1-Cross-Platform-Storytelling--BEZ6bcNWAKtRZRAkizrOhjyPAQ-aOQK1sEOJ9DZUeGpgAIQq)
 
 
 ### Homework
