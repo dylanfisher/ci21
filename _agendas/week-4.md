@@ -17,6 +17,6 @@ summary:          Stories as Networks, Responsive Design
 ### Homework
 - Select one of your three ideas to move forward with and revise your design. Design it at a desktop size as well as at mobile, considering how the design will scale down.
 - Read [The Webs Grain – Frank Chimero](https://frankchimero.com/blog/2015/the-webs-grain/) and leave a [discussion question](https://frankchimero.com/blog/2015/the-webs-grain/).
-- Citra is the discussion leader
+- Luna is the discussion leader
 
 ---
