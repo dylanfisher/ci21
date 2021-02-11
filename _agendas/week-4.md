@@ -7,7 +7,7 @@ summary:          Stories as Networks, Responsive Design
 
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/S21-CI2-Week-4-Class-1-Stories-as-Networks-Ideation--BEzcf1_Nf3ojboIA34t1ce7xAQ-JRInZOBOsAKHlt4omU8rh)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-S21-CI2-Week-4b-Typographic-Explorations-and-Small-Group-Meetings--BE9kc1LIq1rgfUADw0N6a3sEAQ-MP11A6PXGiOdgqXU39fDN)
 - Hear from Luna about Frank Chimero
 - Small group meetings and in class activity
 
