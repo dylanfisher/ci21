@@ -2,7 +2,21 @@
 title:            Week 4
 start_date:       2021-02-08 00:00:00 -0500
 date_range:       2/9 – 2/12
-summary:          Stories as Networks, Responsive Design
+summary:          Stories as Networks, Responsive Design, Flexbox, Grid, CSS Animations
+---
+
+### Friday, Lab
+- [Zoom room](https://newschool.zoom.us/j/3928062190)
+- [Week 4 Discussion Questions](https://paper.dropbox.com/doc/CI-Lab-Week-4-Discussion-Questions--BE~8pymHtKN9SeuNoxMtuGl7Ag-0SbHF4quhlC7lezigFehK)
+- Assignment: [Structure and Animation – Event Poster](https://paper.dropbox.com/doc/CI-Lab-Week-4-Structure-and-Animation--BE_axfmLt6Cth41rI~DksabDAg-BtDGhdAEF4g2VbwqzUL5V)
+
+### This week's lab demo videos
+- [CSS Layout + Style](https://vimeo.com/showcase/8025633/video/505402445)
+- [Responsive Web-Styles](https://vimeo.com/showcase/8025633/video/509303742)
+
+### Homework
+- Continue working on your event poster and publish it to your GitHub repo. Use the GitHub link to submit the assignment to Canvas.
+
 ---
 
 ### Tuesday, Studio
@@ -23,8 +37,6 @@ summary:          Stories as Networks, Responsive Design
 - Hear from Kashish and discuss Typography and the Screen
 - Discuss responsive design changes and designing for mobile
 - Small group check ins on project on Figma
-
-
 
 ### Homework
 - Select one of your three ideas to move forward with and revise your design. Design it at a desktop size as well as at mobile, considering how the design will scale down.
