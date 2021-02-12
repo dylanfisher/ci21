@@ -11,7 +11,7 @@ summary:          Stories as Networks, Responsive Design, Flexbox, Grid, CSS Ani
 - Assignment: [Structure and Animation – Event Poster](https://paper.dropbox.com/doc/CI-Lab-Week-4-Structure-and-Animation--BE_axfmLt6Cth41rI~DksabDAg-BtDGhdAEF4g2VbwqzUL5V)
 
 ### This week's lab demo videos
-- [CSS Layout + Style](https://vimeo.com/showcase/8025633/video/505402445)
+- [CSS Layout + Style](https://vimeo.com/showcase/8025633/video/509303161)
 - [Responsive Web-Styles](https://vimeo.com/showcase/8025633/video/509303742)
 
 ### Homework
