@@ -9,9 +9,9 @@ summary:          Stories as Networks Continued
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-S21-CI2-Week-4b--BFRXfjKt47lSlfmORoQIC22RAQ-65qIxSJzVKet8Xbx7VI82)
-- Hear from Kashish and discuss Typography and the Screen
-- Discuss responsive design changes and designing for mobile
-- Small group check ins on project on Figma
+- Look at a few recently online examples
+- Compare typographic explorations
+- Small group critiques
 
 ### Homework
 - Based on today&rsquo;s feedback finalize your design and if ready, begin programming it! The project is due 03/02
