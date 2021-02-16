@@ -15,6 +15,5 @@ summary:          Stories as Networks Continued
 
 ### Homework
 - Based on today&rsquo;s feedback finalize your design and if ready, begin programming it! The project is due 03/02
-- 
 
 ---
