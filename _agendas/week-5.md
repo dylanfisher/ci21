@@ -1,8 +1,24 @@
 ---
 title:            Week 5
-start_date:       2021-02-08 00:00:00 -0500
+start_date:       2021-02-15 00:00:00 -0500
 date_range:       2/16 – 2/19
 summary:          Stories as Networks Continued, CSS animations, SVGs
+
+---
+
+### Friday, Lab
+- [Zoom room](https://newschool.zoom.us/j/3928062190)
+- [Week 5 Individual Meeting Schedule](https://paper.dropbox.com/doc/CI-Lab-Week-5-Meeting-Schedule--BFbLOMhRjVJZSY5wCw8WZa4UAg-Cc48XAC16Jb7Bld3pRSmS)
+- Assignment: [🎹 Music Collection](https://paper.dropbox.com/doc/CI-Lab-Week-5-Music-Collection--BFdEFPX0eY8gm2jCFrbVvhaIAg-6aPxfUWV1qobTplUO0VAl)
+
+### This week's lab demo video
+- [Structure with HTML/CSS](https://vimeo.com/showcase/8025633/video/513703910)
+
+### Next week's lab demo video
+- [Introduction to Javascript](https://vimeo.com/showcase/8025633/video/513584741)
+
+### Homework
+- Finish your Music Collection site. Turn the project in to Canvas by pasting the link to your code on GitHub Pages.
 
 ---
 
