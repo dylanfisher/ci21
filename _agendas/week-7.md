@@ -6,6 +6,21 @@ summary:          Stories as Networks Critique, Elastic Collections Introduction
 
 ---
 
+### Thursday, Studio
+- [Zoom room](https://newschool.zoom.us/my/nikafisher)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-7b-Critique-Regroup-Elastic-Collections-Intro--BGTG2Me7LsXJhgni5H2V3qgUAQ-ESRUJiTe7BSCFIR71zrIY)
+- Hear from Whitley and Isabella about Sharing as Survival and Dyanmic Use of Data, and we [discuss](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BGFxSujZERHAyltTjrINE8N0AQ-WRC1vWjkMj6DPWDHQKuTU).
+- Stories as Networks regroup
+- Introduce Elastic Collections
+- Look at examples of archives and collections
+
+### Homework
+- Watch [Balancing Privacy With Data Sharing for the Public Good](https://vimeo.com/showcase/8025633/video/518426783)
+- Read [Chapter 2 from Data Feminism – Catherine D'Ignazio and Lauren Klein](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BGFxSujZERHAyltTjrINE8N0AQ-WRC1vWjkMj6DPWDHQKuTU). Kristy and Michelle K. will be our discussion leaders, presenting on both the lecture and the reading.
+- Come in with three different ideas for the contents of your [elastic collection](../projects/3-elastic-collections). The content can be any type of media – photos, videos, animations, audio. For each idea, include a a written description of the contents, highlight your interest in it, three possible stories one could develop from this collection (does it connect to any broader discussions in visual culture, design, or beyond?), as well as an example of the visual component of the object. This can be done in Figma, in Google Slides, or a PDF.
+
+---
+
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Critique-2-Stories-as-Networks--BGFbB5LTuWPgazGE3USqZcs0AQ-XM5sRyPEo3vLpAHhhRFPe)

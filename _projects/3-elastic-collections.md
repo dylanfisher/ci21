@@ -1,11 +1,8 @@
 ---
 title:            Elastic Collections
-index:            2
+index:            3
 
 ---
-
-### Project 3. Intx w/Data
-Elastic Collections
 
 ### Objectives
 - To gather and organize a collection of data
@@ -37,18 +34,30 @@ Rather than being a neutral vessel, how can the design that you use to organize 
 
 Does the arrangement of elements or the grid change? Does the site’s navigation change to highlight the most current content?
 
+### Requirements
+- A title for your collection
+- An about page or section containing a brief text about your - collection + designer credit
+- Include all 100 media items
+- Your site must have some javascript element that enhances the - experience and relates to your collection in a meaningful way.
+- Your website should have at least two ways of viewing your - collection.
+- These can be filters/subgroupings, sorting methods, list v - thumbnails toggle, etc. . 
+- The site that houses your collection must in some way make - visible or acknowledge the web-specific context.
+- Site favicon
+- Must be responsive and function on a mobile screen
+
+
 ### Schedule (Week 7–12)
-- W 7–1. Project 2 due. Introduce: Unit 3. Assign: Lecture + reading.
-- W 7–2. Discuss: Lecture + reading. Introduce: Project 3. Assign: Collection.
-- W 8–1. Mid-Semester Meetings. Review: Collection. Assign: Collection swap and Ideas.
-- W 8–2. Mid-Semester Meetings. Review: Collection. Assign: Collection swap and Ideas.
+- 03/02 Project 2 due. Introduce: Unit 3. Assign: Lecture + reading.
+- 03/04. Discuss: Lecture + reading. Introduce: Project 3. Assign: Collection.
+- 03/09 Mid-Semester Meetings. Review: Collection. Assign: Collection swap and Ideas.
+- 03/11 Mid-Semester Meetings. Review: Collection. Assign: Collection swap and Ideas.
 
 SPRING BREAK: NO CLASS
 
-- W 9–1. Review: Ideas. Assign: Iteration.
-- W 9–2. Review (1–9): Iteration. Assign: Implementation.
-- W 10–1. Review (10–18): Iteration. Assign: Implementation.
-- W 10–2. Review: Implementation.
-- W 11–1. Review: Implementation.
-- W 11–2. Review: Implementation.
-- W 12–1. Final Review: Project 3. Introduce: Project 4. Assign: Lecture + reading.
+- 03/23 Review: Ideas. Assign: Iteration.
+- 03/25 Review (1–9): Iteration. Assign: Implementation.
+- 03/30 Review (10–18): Iteration. Assign: Implementation.
+- 04/01 Review: Implementation.
+- 04/06 Review: Implementation.
+- 04/08 Review: Implementation.
+- 04/13. Final Review: Project 3.
