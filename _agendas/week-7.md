@@ -6,6 +6,24 @@ summary:          Stories as Networks Critique, Elastic Collections Introduction
 
 ---
 
+### Friday, Lab
+- [Zoom room](https://newschool.zoom.us/j/3928062190)
+- [JavaScript Introduction](https://paper.dropbox.com/doc/JavaScript-Introduction--BGSt04NUVrWqW5HvTurbSSKOAg-Q1dIKqjaE9Sltj18XCsGV)
+- [Airtable Setup](https://paper.dropbox.com/doc/Airtable-Setup--BGQfI7uEy1wIbhdeYXj6XjjjAg-Rm1DcYZjqWxPfRoyBt9tx)
+
+### This week's lab demo video
+- [Airtable Introduction](https://vimeo.com/515896222)
+- [Airtable Base Setup](https://vimeo.com/515893387)
+
+### Next week's lab demo video
+- [JavaScript + the DOM](https://vimeo.com/519265257)
+
+### Homework
+- Finish setting up your Airtable bookshelf with 10 different items
+- Watch next week's lab demo [JavaScript + the DOM](https://vimeo.com/519265257)
+
+---
+
 ### Thursday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-7b-Critique-Regroup-Elastic-Collections-Intro--BGTG2Me7LsXJhgni5H2V3qgUAQ-ESRUJiTe7BSCFIR71zrIY)
