@@ -8,7 +8,7 @@ summary:          Elastic collections continued
 
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Critique-2-Stories-as-Networks--BGFbB5LTuWPgazGE3USqZcs0AQ-XM5sRyPEo3vLpAHhhRFPe)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8a-Elastic-Collections-and-Midterm-Meetings--BGiLzVz4kbl0wRlFS4fVkHRcAQ-2j0xD0NV5TY7v6OpazLPT)
 - Hear from Kristy and Michelle K. and discuss Data Feminism
 - Discuss project ideas in small groups
 - Midterm evaluation meetings with half the class
