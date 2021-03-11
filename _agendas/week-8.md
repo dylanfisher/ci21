@@ -8,7 +8,7 @@ summary:          Elastic collections continued
 
 ### Thursday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8a-Elastic-Collections-and-Midterm-Meetings--BGiLzVz4kbl0wRlFS4fVkHRcAQ-2j0xD0NV5TY7v6OpazLPT)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8b-Elastic-Collections-and-Midterm-Meetings--BGpoSF99YXg7Ldrofb_29nm9AQ-383VaRuffJL7ENPf7egri)
 - Hear from Gia and discuss The Hidden Life of an Amazon User – Joana Moll
 - Discuss project ideas in small groups
 - Midterm evaluation meetings with half the class
