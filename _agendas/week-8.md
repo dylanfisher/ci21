@@ -6,6 +6,22 @@ summary:          Elastic collections continued
 
 ---
 
+### Thursday, Studio
+- [Zoom room](https://newschool.zoom.us/my/nikafisher)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8a-Elastic-Collections-and-Midterm-Meetings--BGiLzVz4kbl0wRlFS4fVkHRcAQ-2j0xD0NV5TY7v6OpazLPT)
+- Hear from Gia and discuss The Hidden Life of an Amazon User – Joana Moll
+- Discuss project ideas in small groups
+- Midterm evaluation meetings with half the class
+
+### Homework
+- Refine the collection concept and create/gather new, stronger images until you have at least 100. 
+- Organize these 100 items into 3 sub-categories. These might be filters or sorting - mechanisms. (Sorted by age, for example; Filtered by size). At this point you - should be finding similarities, drawing connections, and developing a concept or - narrative for your collection. 
+- In writing, prepare a summary of what you’d like to investigate with your collection.
+- Present sketches of 3 vastly different ways of viewing your collection using Figma
+
+
+---
+
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8a-Elastic-Collections-and-Midterm-Meetings--BGiLzVz4kbl0wRlFS4fVkHRcAQ-2j0xD0NV5TY7v6OpazLPT)
