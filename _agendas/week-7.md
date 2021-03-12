@@ -2,7 +2,7 @@
 title:            Week 7
 start_date:       2021-03-01 00:00:00 -0500
 date_range:       3/02 – 3/05
-summary:          Stories as Networks Critique, Elastic Collections Introduction
+summary:          Stories as Networks Critique, Elastic Collections Introduction, JavaScript Introduction, Airtable
 
 ---
 
