@@ -19,6 +19,7 @@ summary:          Elastic collections continues
 3. Begin to audit and edit your collection. Refine any details and feel free to re-interpret what you’ve received.
 4. Add at least 10 new entries to the collection.
 5. In Figma, begin sketching 3 ideas of how the collection can be organized. These can be rough and gestural.
+
 ---
 
 
