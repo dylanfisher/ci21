@@ -8,7 +8,7 @@ summary:          Design process review, Design iterations
 
 ### Thursday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-10a-Elastic-Collections-Continue--BHxA78rM5BgM1jPKVIWxs~cHAQ-ZnwUnSCUIMLhozwdBLb4P)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-10b-Elastic-Collections-Continue-Sophomore-Work-Collection-Documenting-Work--BH9BFnBx8_CTTGzZjYs2vNS4AQ-fUKXyRNAmXZAiOnM8IZwG)
 - Discuss work collection
 - Discuss documenting digital work
 - Figma check in
