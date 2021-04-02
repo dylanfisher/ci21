@@ -1,8 +1,27 @@
 ---
 title:            Week 10
-start_date:       2021-03-24 00:00:00 -0500
+start_date:       2021-03-30 00:00:00 -0500
 date_range:       3/30 – 4/1
 summary:          Design process review, Design iterations
+
+---
+
+### Friday, Lab
+- [Zoom room](https://newschool.zoom.us/j/3928062190)
+- [Show and tell – Airtable API work in progress](https://paper.dropbox.com/doc/CI-Lab-Week-10-Airtable-show-and-tell--BIATXSIshSyc~91llK9AfbnUAg-29Nk4Gamc8d2ZjvDWXbS0)
+
+### This week's lab demo videos
+View the #demos channel in Slack for supplemental demos from Dana Kim.
+
+- [Airtable Front-End](https://vimeo.com/515894979)
+- [Airtable API](https://vimeo.com/515890927)
+  - [Glitch demo showing off the Airtable API + bookshelf demo](https://glitch.com/edit/#!/interaction-lab-bookshelf)
+
+### Homework
+- Before next week's class, please submit a question to the bottom of [this week's Airtable show and tell document](https://paper.dropbox.com/doc/CI-Lab-Week-10-Airtable-show-and-tell--BIATXSIshSyc~91llK9AfbnUAg-29Nk4Gamc8d2ZjvDWXbS0#:uid=783673421421613703284050&h2=Questions-for-next-week).
+- Begin/continue your Elastic Collection prototypes. Make sure your code is pushed to GitHub as you continue to make
+  progress. Remember, the collection you use for the Elastic Collection project is the collection you swapped with
+  your partner, not your own collection.
 
 ---
 
