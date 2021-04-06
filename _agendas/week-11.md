@@ -9,7 +9,7 @@ summary:          Elastic Collections continue
 
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
-- [Today&rsquo;s Notes]https://paper.dropbox.com/doc/Parsons-Week-11a-Elastic-Collections-Continue--BIR_Mry2y~onOirTJnj1VB9vAQ-KMj11F4ypAgyU8KzPSIW2)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-11a-Elastic-Collections-Continue--BIR_Mry2y~onOirTJnj1VB9vAQ-KMj11F4ypAgyU8KzPSIW2)
 - Review announcements and additional coding references
 - Small group meetings
 
