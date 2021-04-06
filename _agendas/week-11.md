@@ -14,7 +14,7 @@ summary:          Elastic Collections continue
 - Small group meetings
 
 ### Homework
-- Keep working on your Elastic Collection project, refining the design and making programming edits as you go
+- Keep working on your Elastic Collection project, refining the design and making programming edits as you go. Project is due one week from Thursday
 - Complete your [in class activity](https://paper.dropbox.com/doc/Parsons-Week-10b-Elastic-Collections-Continue-Sophomore-Work-Collection-Documenting-Work--BIRlwpANOFWGGMArYv4EXrM_Ag-fUKXyRNAmXZAiOnM8IZwG#:uid=013461229502076639341871&h2=Activity-%E2%80%93-Documenting-Your-Pa): creating a case study for your partner&rsquo;s Stories as Networks project for Thursday. We will look at them as a class.
 
 ---

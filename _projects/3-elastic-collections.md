@@ -60,4 +60,5 @@ SPRING BREAK: NO CLASS
 - 04/01 Review: Implementation.
 - 04/06 Review: Implementation.
 - 04/08 Review: Implementation.
-- 04/13. Final Review: Project 3.
+- 04/13 Review: Implementation.
+- 04/15. Final Review: Project 3.
