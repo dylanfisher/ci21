@@ -6,6 +6,18 @@ summary:          Elastic Collections wrap up, Web accessibility
 
 ---
 
+### Thursday, Studio
+- [Zoom room](https://newschool.zoom.us/my/nikafisher)
+- [Critique Information](https://paper.dropbox.com/doc/Critique-3-Elastic-Collections--BI3739v60y~A6ny1woM7ODhBAQ-MfPOMM917MgXxtGIdxKcp)
+- Critique with guest critic, Elizabeth Goodspeed
+
+### Homework
+- Read [Run your own Social – Darius Kazemi](https://runyourown.social/) and [write a comment or question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BIZO5FtSV4I6vxIswSZENFZ7AQ-WRC1vWjkMj6DPWDHQKuTU)
+- Watch [Accessibility – Lynn Kiang](https://vimeo.com/showcase/8025633/video/533670290)
+- Chichi and Michelle N. will be our discussion leaders and present on the reading and the lecture.
+
+
+---
 
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
