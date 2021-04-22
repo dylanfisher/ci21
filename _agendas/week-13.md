@@ -9,12 +9,12 @@ summary:          Input Output Intro
 ### Thursday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-13b-InputOut-Continues--BJQNkhPbOVBUWd~Ds3ey1516AQ-kQw6hYvZTLfMrAtJWmeh4)
-- Hear from Yuk-Hei and Lara about [Glitching the Master’s House: Legacy Russell and Momtaza Mehri in Conversation](https://www.frieze.com/article/glitching-masters-house-legacy-russell-and-momtaza-mehri-conversation).
+- Hear from Yuk Hei and Lara about [Glitching the Master’s House: Legacy Russell and Momtaza Mehri in Conversation](https://www.frieze.com/article/glitching-masters-house-legacy-russell-and-momtaza-mehri-conversation) and the lecture.
 - Group activity
 - Figma check in on project ideas
 
 ### Homework
-- Based on your feedback, select one project direction to refine and solidify. Design a complete draft of the site in Fimga. We&rsquo;ll start programming next week.
+- Based on your feedback, select one project direction to refine and solidify. Design a complete draft of the site in Figma. We&rsquo;ll start programming next week.
 
 
 ---
