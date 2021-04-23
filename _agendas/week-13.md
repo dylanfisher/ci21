@@ -6,6 +6,22 @@ summary:          Input Output Intro
 
 ---
 
+### Friday, Lab
+- [Zoom room](https://newschool.zoom.us/j/3928062190)
+- Review data storage/real time interaction demos
+- [Project reviews and 1-on-1 meetings](https://paper.dropbox.com/doc/CI-Lab-Week-13-Meeting-Schedule--BJXLWeMkH3BbGojRfmq16MllAg-2mJgUhzHfrAo0xuZUWGMn)
+
+### Last week's lab demo videos
+- [Input/Output, Part 1](https://vimeo.com/537294028)
+- [Input/Output, Part 2](https://vimeo.com/537297571)
+
+### Homework
+- Continue to refine your Input/Output projects. Think about what technical components your project involves and come to class next week with a proof-of-concept prototype of this interaction.
+  This could be the start of your design, or just a rough sketch showing what the basis of your input/output is. Let's try to identity tricky areas of your project so that we can work together
+  to come up with a solution in code.
+
+---
+
 ### Thursday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-13b-InputOut-Continues--BJQNkhPbOVBUWd~Ds3ey1516AQ-kQw6hYvZTLfMrAtJWmeh4)

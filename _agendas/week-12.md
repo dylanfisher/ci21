@@ -23,9 +23,9 @@ summary:          Elastic Collections wrap up, Web accessibility, Data Storage a
   with the possibilities of that technology (either persistent storage or websockets). You'll need to make changes
   to the HTML, CSS and JavaScript in order to make the demo your own.
 - Next week you'll present your demo to the class and explain how you changed the code. You should also begin
-  thinking about how this technology related to your final project [Input/Output](http://localhost:4000/projects/4-input-output).
-- Your final Input/Output project doesn't need to use Glitch or these demos, but these could be inspiration
-  for potential directions to take your projects, and this technology allows you to create interactions that
+  thinking about how this technology relates to your final project [Input/Output](/projects/4-input-output).
+- Your final Input/Output project doesn't need to use Glitch (or these demos), but these could be inspiration
+  for potential directions to take your project in, and this technology allows you to create interactions that
   aren't otherwise possible in a purely static site (like what you have hosted on GitHub).
 
 ---
