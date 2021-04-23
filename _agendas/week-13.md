@@ -17,7 +17,7 @@ summary:          Input Output Intro
 
 ### Homework
 - Continue to refine your Input/Output projects. Think about what technical components your project involves and come to class next week with a proof-of-concept prototype of this interaction.
-  This could be the start of your design, or just a rough sketch showing what the basis of your input/output is. Let's try to identity tricky areas of your project so that we can work together
+  This could be the start of your design, or just a rough sketch showing what the basis of your input/output is. Let's try to identify tricky areas of your project so that we can work together
   to come up with a solution in code.
 
 ---
