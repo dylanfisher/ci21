@@ -44,5 +44,4 @@ It is very important that you test and try to use the tool you make, as well as 
 - 04/27 Review (1–9): Iteration. Assign: Implementation
 - 04/29 Review (10–18): Iteration. Assign: Implementation
 - 05/04 Review (1–9): Implementation.
-- 05/06 Review (10–18): Implementation.
-- 05/10 Final Review: Project 4. Class Reflection and Q&A.
+- 05/06 Review (10–18): Final Review: Project 4. Class Reflection and Q&A.
