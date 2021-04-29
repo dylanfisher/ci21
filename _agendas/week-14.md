@@ -6,6 +6,16 @@ summary:          Input Output continues
 
 ---
 
+### Thursday, Studio
+- [Zoom room](https://newschool.zoom.us/my/nikafisher)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-14b-InputOutput-Continues--BJt9AuoUpAlzByj_COFsQvheAQ-yFZo0KfqE7q8k511bm56m)
+- Activity and meetings
+
+### Homework
+- Continue making progress on your project. It is due one week from today!
+
+---
+
 ### Tuesday, Studio
 - [Zoom room](https://newschool.zoom.us/my/nikafisher)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-14a-InputOutput-Continues--BJlP834DiPTV5quG3m1SPhDVAQ-kY4Fp7zZ5CuL5rNLctSbe)
