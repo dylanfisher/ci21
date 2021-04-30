@@ -1,8 +1,24 @@
 ---
 title:            Week 14
-start_date:       2021-04-19 00:00:00 -0500
-date_range:       4/20 – 4/23
+start_date:       2021-04-27 00:00:00 -0500
+date_range:       4/27 – 4/30
 summary:          Input Output continues
+
+---
+
+### Friday, Lab
+- [Zoom room](https://newschool.zoom.us/j/3928062190)
+- Discuss Core 2 Skill Test
+- Open office hours to review Input/Output projects
+
+### Homework
+- Core 2 Skills test prep. Review the major topics from each [agenda](/agenda) week to
+  help prepare for the multiple choice skills test next week. You'll have 30 minutes to
+  complete the test, which will be administered between 9:00am–9:30am. Make sure you arrive
+  to class promptly at 9:00am so your time is not cut short.
+- Continue to make progress programming your final project. Next week we'll have the remaining
+  class after the Core 2 Skills test for last minute debugging.
+- Final project critique will take place in Studio on Tuesday, 5/11.
 
 ---
 
